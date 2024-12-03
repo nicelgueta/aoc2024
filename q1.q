@@ -1,5 +1,5 @@
 / read input into two vectors l and r and sort smallest to largest
-tbl: "II" $ flip "   " vs/: read0 `:1.txt
+tbl: "I" $ flip "   " vs/: read0 `:1.txt
 l: asc tbl[0]
 r: asc tbl[1]
 
